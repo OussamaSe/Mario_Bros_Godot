@@ -24,10 +24,7 @@ var animation_playing = false
 
 #---------------------------------------------------------
 func _ready():
-	position = Vector2(32*4, 240-16*2-15)
 	state = IDLE
-
-
 
 func _physics_process(delta):
 	movement.y += GRAVITY * delta
@@ -100,11 +97,8 @@ func _physics_process(delta):
 		if coll_body.collider.is_in_group("Enemies"):
 			if coll_body.normal != Vector2(0, -1):
 				state = DEAD
-			else:
-				movement.y = -750
 		if coll_body.collider.is_in_group("WinningFlag"):
-			state = DEAD
-		print(coll_body.collider)
+			print("you won")
 	if state == DEAD:
 		emit_signal("dead")
 		

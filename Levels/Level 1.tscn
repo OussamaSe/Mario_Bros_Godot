@@ -89,20 +89,4 @@ tile_data = PoolIntArray( 196710, 3, 0, 262246, 2, 0, 327782, 2, 0, 393318, 2, 0
 
 position = Vector2( 1180, 790 )
 
-[node name="Position2D2" type="Position2D" parent="GoombaSpawn" index="1"]
-
-position = Vector2( 1750, 780 )
-
-[node name="Position2D3" type="Position2D" parent="GoombaSpawn" index="2"]
-
-position = Vector2( 2340, 790 )
-
-[node name="Position2D4" type="Position2D" parent="GoombaSpawn" index="3"]
-
-position = Vector2( 3680, 800 )
-
-[node name="Position2D5" type="Position2D" parent="GoombaSpawn" index="4"]
-
-position = Vector2( 4730, 790 )
-
 

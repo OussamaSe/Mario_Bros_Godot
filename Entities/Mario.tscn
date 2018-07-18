@@ -282,6 +282,9 @@ collision_mask = 61
 collision/safe_margin = 0.001
 script = ExtResource( 1 )
 _sections_unfolded = [ "Collision", "collision" ]
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite_Big" type="Sprite" parent="." index="0"]
 
