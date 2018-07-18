@@ -272,7 +272,7 @@ custom_solver_bias = 0.0
 extents = Vector2( 32, 32 )
 _sections_unfolded = [ "Resource" ]
 
-[node name="Mario" type="KinematicBody2D" index="0" groups=[
+[node name="Mario" type="KinematicBody2D" groups=[
 "Mario",
 ]]
 

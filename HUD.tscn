@@ -29,7 +29,7 @@ align = 1
 percent_visible = 1.0
 lines_skipped = 0
 max_lines_visible = -1
-_sections_unfolded = [ "Anchor", "Margin" ]
+_sections_unfolded = [ "Anchor", "Margin", "Rect" ]
 
 [node name="Lives" type="Label" parent="." index="1"]
 
