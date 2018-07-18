@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Underground Theme.ogg-d79015bf01a91e3a70f74f926ff65f98.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/Underground Theme.ogg"
+dest_files=[ "res://.import/Underground Theme.ogg-d79015bf01a91e3a70f74f926ff65f98.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

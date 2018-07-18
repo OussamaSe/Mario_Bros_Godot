@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Skid.wav-3001c3c9f71a0361a37d83ed0214b759.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/Skid.wav"
+dest_files=[ "res://.import/Skid.wav-3001c3c9f71a0361a37d83ed0214b759.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
