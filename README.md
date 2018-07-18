@@ -1,1 +1,2 @@
-# Mario_Bros_Godot
+# Mario Bros Godot
+Use Godot Engine to remake the classic "Super Mario Bros"
